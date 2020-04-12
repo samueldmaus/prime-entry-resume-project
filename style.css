@@ -5,7 +5,8 @@ div {
 h1 {
  color: MidnightBlue;
  text-align: center;
- border-bottom: 5px MidnightBlue;
+ border-style: double;
+ border-bottom: 3px MidnightBlue;
  background-color: FloralWhite; 
 }
 
