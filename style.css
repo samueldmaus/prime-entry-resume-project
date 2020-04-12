@@ -1,4 +1,4 @@
-resumeinfo {
+div {
   font-family: Fantasy, Arial, Calibri;
 }
 h2 {
@@ -12,5 +12,10 @@ h1 {
  color: DarkBlue;
  text-align: center;
  font-weight: bolder;
+}
+
+p {
+  text-align: center;
+  color: coral;
 }
   
