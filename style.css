@@ -5,4 +5,10 @@ h2 {
   padding: 5 px;
 }
 
-
+h1 {
+ color: DarkBlue;
+ text-align: center;
+ font-family: Fantasy, Arial;
+ font-weight: bold;
+}
+  
