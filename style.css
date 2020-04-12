@@ -13,7 +13,17 @@ h2 {
 }
 
 p {
-  text-align: center;
   color: DodgerBlue;
 }
   
+#contact {
+  text-align: center;
+}
+
+#core {
+  text-align: center;
+}
+
+ul {
+  border-left: 5px DodgerBlue;
+}
