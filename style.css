@@ -20,8 +20,6 @@ h2 {
 
 p {
   color: DodgerBlue;
-  border-style: hidden solid;
-  border-color: DodgerBlue;
 }
   
 #contact {
@@ -32,3 +30,7 @@ p {
   text-align: center;
 }
 
+#big {
+   border-style: hidden solid;
+  border-color: DodgerBlue;
+}
