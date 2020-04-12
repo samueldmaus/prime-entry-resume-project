@@ -34,3 +34,13 @@ p {
    border-style: solid hidden hidden solid;
   border-color: MediumBlue;
 }
+
+#picture {
+  height: 150px;
+  width: 150px;
+}
+
+#baseball {
+  height: 150px;
+  width: 150px;
+}
