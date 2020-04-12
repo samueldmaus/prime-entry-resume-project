@@ -31,6 +31,6 @@ p {
 }
 
 #job {
-   border-style: hidden hidden hidden solid;
+   border-style: hidden hidden solid solid;
   border-color: MediumBlue;
 }
