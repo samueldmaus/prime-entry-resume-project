@@ -1,3 +1,6 @@
+resumeinfo {
+  font-family: Fantasy, Arial, Calibri;
+}
 h2 {
   text-align: center;
   color: CadetBlue;
@@ -8,7 +11,6 @@ h2 {
 h1 {
  color: DarkBlue;
  text-align: center;
- font-family: Fantasy, Arial;
- font-weight: bold;
+ font-weight: bolder;
 }
   
