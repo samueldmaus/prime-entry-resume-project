@@ -1,20 +1,19 @@
 div {
   font-family: Fantasy, Arial, Calibri;
 }
-h2 {
-  text-align: center;
-  color: CadetBlue;
-  border: 3px CadetBlue;
-  padding: 5 px;
-}
 
 h1 {
- color: DarkBlue;
+ color: MidnightBlue;
  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: MediumBlue;
 }
 
 p {
   text-align: center;
-  color: coral;
+  color: DodgerBlue;
 }
   
