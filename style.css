@@ -38,9 +38,9 @@ p {
 #picture {
   height: 150px;
   width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-#baseball {
-  height: 150px;
-  width: 150px;
-}
