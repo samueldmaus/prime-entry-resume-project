@@ -5,8 +5,8 @@ div {
 h1 {
  color: MidnightBlue;
  text-align: center;
- border-style: double;
- border-bottom: 3px MidnightBlue;
+ border-style: solid;
+ border-color: MidnightBlue;
  background-color: FloralWhite; 
 }
 
@@ -14,10 +14,14 @@ h2 {
   text-align: center;
   color: MediumBlue;
   background-color: FloralWhite;
+  border-style: double;
+  border-color: MediumBlue;
 }
 
 p {
   color: DodgerBlue;
+  border-style: hidden solid;
+  border-color: DodgerBlue;
 }
   
 #contact {
@@ -28,6 +32,3 @@ p {
   text-align: center;
 }
 
-ul {
-  border-left: 5px DodgerBlue;
-}
